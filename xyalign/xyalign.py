@@ -11,7 +11,7 @@ import time
 import pandas as pd
 import pysam
 import assemble
-import bam
+import cybam2 as bam
 import ploidy
 import reftools
 import utils
